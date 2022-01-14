@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jing
 - 👀 I’m interested in ASP.NETCore, C#, Javascript, Angular and HTML development.
-- 🌱 I’m currently learning YOUR MOM
+- 🌱 I’m currently learning ------
 - 💞️ I’m looking to collaborate on uh. not sure.
 - 📫 How to reach me orangejing127@gmail.com. Thanks!
 
